@@ -16,16 +16,16 @@
   -->
 
 <resources>
-    <string name="app_name">Social App</string>
-    <string name="label_create_post_activity">Create post</string>
-    <string name="label_post_detail_activity">Post detail</string>
+    <string name="app_name">Kormo Jibi</string>
+    <string name="label_create_post_activity">Post a new Job</string>
+    <string name="label_post_detail_activity">Job detail</string>
     <string name="label_image_detail_activity">Image</string>
     <string name="title_activity_login">Sign in</string>
     <string name="title_activity_create_profile">Create profile</string>
     <string name="title_activity_profile">Profile</string>
     <string name="title_activity_edit_profile">Edit profile</string>
     <string name="title_activity_edit_post">Edit post</string>
-    <string name="title_activity_following_posts">Following posts</string>
+    <string name="title_activity_following_posts">Following jobs</string>
 
     <string name="text_take_photo">Take photo</string>
     <string name="text_pick_photo">Pick from Gallery</string>
@@ -108,7 +108,7 @@
     <string name="add_complain">Complain</string>
     <string name="edit_post_menu">Edit post</string>
     <string name="delete_post_menu">Delete post</string>
-    <string name="complain_text">You can complain to this post if it contains violence,
+    <string name="complain_text">You can complain to this job if it contains violence,
         bullying and threats, hate speech, tragic events and sexually explicit contents.
         Nobody will see the post if you complain to it. You can\'t delete your complain.</string>
 
@@ -176,7 +176,7 @@
     <!--Search-->
     <string name="search_menu_item">Search</string>
     <string name="search_hint">Search …</string>
-    <string name="posts_tab_title">Posts</string>
+    <string name="posts_tab_title">Jobs</string>
     <string name="users_tab_title">Users</string>
     <string name="empty_posts_search_message">No posts found</string>
     <string name="empty_user_search_message">No users found</string>
